@@ -186,7 +186,7 @@ Five grade-band visual systems ensure age-appropriate presentation:
 learning-studio/
 ├── SKILL.md                              # Core skill — paste into Claude Project instructions
 ├── README.md                             # This file
-├── LICENSE                               # MIT License
+├── LICENSE                               # CC BY 4.0 License
 └── references/
     ├── standards-guide.md                # State standards mapping (all 50 states)
     ├── design-system.md                  # Typography, layout, color specs by grade band
@@ -208,7 +208,7 @@ learning-studio/
 
 ## License
 
-MIT License — use it, modify it, share it. The goal is to help more families access quality educational materials.
+This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You're free to use, adapt, and share it — even commercially — as long as you credit the original.
 
 ---
 
